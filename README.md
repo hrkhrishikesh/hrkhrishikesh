@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software/web developer</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hrkhrishikesh&theme=onedark" alt="Trophies" />
