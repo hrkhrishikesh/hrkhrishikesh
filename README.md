@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hrkhrishikesh&theme=onedark" alt="Trophies" />
-</p>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hrishikesh-kumar-287466207) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19252112/hrishikesh-kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumar.hrishikesh27@gmail.com) 
 
